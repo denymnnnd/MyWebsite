@@ -1,0 +1,16 @@
+* {
+    background: black;
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    overflow: hidden;
+    background: black;
+}
+canvas {
+    background: blue;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
