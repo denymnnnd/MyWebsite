@@ -1,10 +1,38 @@
-h1{
-    color : greenyellow;
-}
 
 body{
-    background-color: black;
+    background-image: url('Images/pexels-cottonbro-8720267.jpg');
+        background-size: cover;
+        background-position: top;
+        background-repeat: no-repeat;
 }
-.hero{
-    background-image: url('Images/pck.jpg');
+
+h1{
+    
+    font-family: 'Sixtyfour Convergence', sans-serif;
+    font-size: larger;
+     color: greenyellow;
 }
+
+
+
+
+
+  .rubik-pixels-regular {
+    font-family: "Rubik Pixels", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+  .sixtyfour-convergence-sky {
+    font-family: "Sixtyfour Convergence", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "BLED" 0,
+      "SCAN" 0,
+      "XELA" 0,
+      "YELA" 0;
+  }
+ 
